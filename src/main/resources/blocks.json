@@ -1,0 +1,4 @@
+{
+  "firstlayerblocks": ["STONE", "COBBLESTONE"],
+  "secondlayerblocks": ["RED_CONCRETE", "GREEN_CONCRETE"]
+}

@@ -1,0 +1,5 @@
+name: mimic_core
+version: '1.0'
+main: games.mimic.mimic_core.Mimic_core
+api-version: '1.21'
+authors: [ Sono ]
