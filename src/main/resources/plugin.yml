@@ -3,3 +3,15 @@ version: '1.0'
 main: games.mimic.mimic_core.Mimic_core
 api-version: '1.21'
 authors: [ Sono ]
+softdepend: ["PlaceholderAPI"]
+commands:
+  lb:
+    description: Main command for labyrinth management
+    usage: /lb <subcommand>
+    permission: mimic.admin
+    permission-message: You don't have permission.
+  silver:
+    description: Manage silver currency.
+    usage: /silver <check|give|take|set> <player> <amount>
+    permission: mimic.admin
+    permission-message: You don't have permission.

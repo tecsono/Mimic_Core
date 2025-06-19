@@ -5,11 +5,11 @@ import org.bukkit.entity.Player;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.jetbrains.annotations.NotNull;
 
-public class SilverPlaceholder extends PlaceholderExpansion {
+public class PlaceholderManager extends PlaceholderExpansion {
 
     private final Mimic_core plugin;
 
-    public SilverPlaceholder(Mimic_core plugin) {
+    public PlaceholderManager(Mimic_core plugin) {
         this.plugin = plugin;
     }
 

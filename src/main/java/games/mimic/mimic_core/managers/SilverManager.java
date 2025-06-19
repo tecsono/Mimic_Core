@@ -1,4 +1,4 @@
-package games.mimic.mimic_core;
+package games.mimic.mimic_core.managers;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
